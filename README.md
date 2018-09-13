@@ -1,4 +1,6 @@
 # Snekw.com website
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSnekw%2Fsnekw.com.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSnekw%2Fsnekw.com?ref=badge_shield)
+
 
 A blog platform. Using minimal client side javascript. 
 
@@ -22,3 +24,7 @@ Please note that this project is released with a Contributor Code of Conduct.
 By participating in this project you agree to abide by its terms.
 
 You can read the code of conduct [here](CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSnekw%2Fsnekw.com.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSnekw%2Fsnekw.com?ref=badge_large)
